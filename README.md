@@ -25,8 +25,9 @@
 <a href="#macropower-title">
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
-
-
+ * :infinite: I'm currently working on [WLA](https://wlasaas.tech/) as a DevOps Engineer
+ * :seedling: I'm currently learning about Kubernetes, Terraform, and Python
+ * 
 <br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
