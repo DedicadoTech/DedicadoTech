@@ -26,10 +26,6 @@
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Python**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
@@ -39,7 +35,7 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="right" width="96">
       <a href="#macropower-tech">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
