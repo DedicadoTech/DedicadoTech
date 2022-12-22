@@ -48,7 +48,7 @@
       <br>Bash
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="[dedicadotech](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)">
         <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
