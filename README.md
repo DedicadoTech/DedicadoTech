@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/dedicadotech?style=plastic&color=red)
 ![GitHub User's stars](https://img.shields.io/github/stars/dedicadotech?affiliations=OWNER&style=plastic&color=red)
 
-  ![Dedicadotech](https://raw.githubusercontent.com/dedicadotech/github-stats-transparent/output/generated/overview.svg)
+![Dedicadotech](https://raw.githubusercontent.com/dedicadotech/github-stats-transparent/output/generated/overview.svg)
 </a>
 
 <br>
@@ -35,7 +35,7 @@
       <br>Kubernetes
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-techhttps://www.debian.org/index.pt.html">
+      <a href="https://www.debian.org/index.pt.html">
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
@@ -53,7 +53,7 @@
       </a>
       <br>MySQL
     </td>
-    <td align="center" width="96>
+    <td align="center" width="96">
         <a href="https://docs.ansible.com/">
             <img src="./img/ansible-original.svg" width="48" height="48" alt="Ansible" />
         </a>
