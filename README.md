@@ -1,4 +1,4 @@
-# wave: Hello there! I'm Davi Souza
+# :wave: Hello there! I'm Davi Souza
 ## I am a DevOps Engineering</h3>
 
 
@@ -7,10 +7,13 @@
 
 ![Dedicadotech](https://raw.githubusercontent.com/dedicadotech/github-stats-transparent/output/generated/overview.svg)
 </a>
-
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=dedicadotech&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedicadotech&theme=dracula&show_icons=true" />
+</p>
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="dedicadotech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
