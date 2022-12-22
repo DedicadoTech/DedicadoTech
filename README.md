@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/dedicadotech?style=plastic&color=red)
 ![GitHub User's stars](https://img.shields.io/github/stars/dedicadotech?affiliations=OWNER&style=plastic&color=red)
 
-  ![Dedicadotech](https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg)
+  ![Dedicadotech](https://raw.githubusercontent.com/dedicadotech/github-stats-transparent/output/generated/overview.svg)
 </a>
 
 <br>
