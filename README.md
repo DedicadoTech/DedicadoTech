@@ -5,7 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/dedicadotech?style=plastic&color=red)
 ![GitHub User's stars](https://img.shields.io/github/stars/dedicadotech?affiliations=OWNER&style=plastic&color=red)
 
-![Dedicadotech](https://raw.githubusercontent.com/dedicadotech/github-stats-transparent/output/generated/overview.svg)
 </a>
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=dedicadotech&show_icons=true&theme=dracula&include_all_commits=true" />
