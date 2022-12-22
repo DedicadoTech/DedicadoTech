@@ -7,15 +7,8 @@
 
   ![Dedicadotech](https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg)
 </a>
-<p>
- <!-- :computer: I'm currently working on [WLA](https://wlasaas.tech/) as a DevOps Engineer
- * :seedling: I'm currently learning about Kubernetes, Terraform, and Python
- * :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/dedicadotech/)
- * :books: I'm learning about [Kubernetes](https://kubernetes.io/)
- * [Ansible](https://www.ansible.com/)
- * [Python](https://www.python.org/)
-</p>
-<br>!-->
+
+<br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
