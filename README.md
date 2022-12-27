@@ -57,7 +57,7 @@
     </td>
     <td align="center" width="96">
         <a href="https://docs.ansible.com/">
-            <img src="./img/ansible-original.svg" width="48" height="48" alt="Ansible" />
+            <img src="./img/Ansible_logo.svg" width="48" height="48" alt="Ansible" />
         </a>
         <br>Ansible
   </tr>
