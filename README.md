@@ -6,8 +6,9 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/dedicadotech?affiliations=OWNER&style=plastic&color=red)
 
 </a>
+<img src="img/DedicadoTech.gif"/>
 <p align="center">
- ![DedicaotechGif](img/Animação DedicadoTech.gif)
+ 
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedicadotech&theme=monokai&show_icons=true" />
 </p>
 <br>
