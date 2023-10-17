@@ -7,7 +7,7 @@
 
 </a>
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=dedicadotech&show_icons=true&theme=monokai&include_all_commits=true" />
+ 
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedicadotech&theme=monokai&show_icons=true" />
 </p>
 <br>
