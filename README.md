@@ -7,11 +7,7 @@
 
 </a>
 <img src="img/DedicadoTech.gif"/>
-<p align="center">
- 
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedicadotech&theme=monokai&show_icons=true" />
-</p>
-<br>
+
 
 <h2 align="left" id="dedicadotech">Favorite Tech</h2>
 
@@ -61,7 +57,14 @@
             <img src="./img/Ansible_logo.svg" width="48" height="48" alt="Ansible" />
         </a>
         <br>Ansible
+     <td>
+  <p align="Right">
+ 
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedicadotech&theme=monokai&show_icons=true" />
+</p>
+ </td>
   </tr>
+ 
 </table>
 
 
