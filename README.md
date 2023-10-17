@@ -7,7 +7,7 @@
 
 </a>
 <p align="center">
- 
+ ![DedicaotechGif](https://github.com/DedicadoTech/DedicadoTech/blob/main/img/Anima%C3%A7%C3%A3o%20DedicadoTech.gif)
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedicadotech&theme=monokai&show_icons=true" />
 </p>
 <br>
