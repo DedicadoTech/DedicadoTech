@@ -10,20 +10,23 @@
 
 
 <h2 align="left" id="dedicadotech">Favorite Tech</h2>
-## Favorite Tech
-
-[<img src="https://img.icons8.com/external/icons8-flat-icons/64/000000/external-python-language-programming-icons-8-flat-icons.png" width="48">](https://github.com/search?q=language%3APython+user%3ADedicadoTech&type=repositories) See all My Python Projects
-
----
-
-[<img src="https://img.icons8.com/external/flat-icons/64/000000/external-java-symbol-icons-flat-icons.png" width="48">](https://github.com/search?q=language%3AJava+user%3ADedicadoTech&type=repositories) See all My Java Projects
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://github.com/search?q=language%3APython+user%3ADedicadoTech&type=repositories)
+<br>
+See all My Python Projects
 
 ---
 
-[<img src="https://img.icons8.com/external/flat-icons/64/000000/external-console-silhouette-icons-flat-icons.png" width="48">](https://github.com/search?q=language%3AShell+user%3ADedicadoTech&type=repositories) See all My Shell Projects
+[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://github.com/search?q=language%3AJava+user%3ADedicadoTech&type=repositories)
+<br>
+See all My Java Projects
 
 ---
 
+[![Shell](https://img.icons8.com/plasticine/48/000000/console.png)](https://github.com/search?q=language%3AShell+user%3ADedicadoTech&type=repositories)
+<br>
+See all My Shell Projects
+
+---
 
 > Tools, languages, and other things that I like to work with.
  
