@@ -10,6 +10,7 @@
 
 
 <h2 align="left" id="dedicadotech">Favorite Tech</h2>
+
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://github.com/search?q=language%3APython+user%3ADedicadoTech&type=repositories)
 <br>
 See all My Python Projects
