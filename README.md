@@ -14,17 +14,26 @@
 
 ## Favorite Tech
 
-[<img src="https://img.icons8.com/color/48/000000/python.png" width="48">](https://github.com/search?q=language%3APython+user%3ADedicadoTech&type=repositories) See all My Python Projects
+## Favorite Tech
+
+<div style="display: flex; align-items: center;">
+    <span>See all My Python Projects</span>
+    [<img src="https://img.icons8.com/color/48/000000/python.png" width="48" style="margin-left: 10px;">](https://github.com/search?q=language%3APython+user%3ADedicadoTech&type=repositories)
+</div>
 
 ---
 
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48">](https://github.com/search?q=language%3AJava+user%3ADedicadoTech&type=repositories) See all My Java Projects
+<div style="display: flex; align-items: center;">
+    <span>See all My Java Projects</span>
+    [<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" style="margin-left: 10px;">](https://github.com/search?q=language%3AJava+user%3ADedicadoTech&type=repositories)
+</div>
 
 ---
 
-[<img src="https://img.icons8.com/plasticine/48/000000/console.png" width="48">](https://github.com/search?q=language%3AShell+user%3ADedicadoTech&type=repositories) See all My Shell Projects
-
----
+<div style="display: flex; align-items: center;">
+    <span>See all My Shell Projects</span>
+    [<img src="https://img.icons8.com/plasticine/48/000000/console.png" width="48" style="margin-left: 10px;">](https://github.com/search?q=language%3AShell+user%3ADedicadoTech&type=repositories)
+</div>
 
 > Tools, languages, and other things that I like to work with.
  
