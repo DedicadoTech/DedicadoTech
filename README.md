@@ -12,25 +12,16 @@
 <h2 align="left" id="dedicadotech">Favorite Tech</h2>
 
 
-## Favorite Tech
-
-## Favorite Tech
-
-## Favorite Tech
-
-<div style="display: flex; align-items: center;">
-    <span>See all My Python Projects</span>
-    [<img src="https://img.icons8.com/ios-filled/50/000000/python.png" width="48" style="margin-left: 10px;">](https://github.com/search?q=language%3APython+user%3ADedicadoTech&type=repositories)
-</div>
+[<img src="https://img.icons8.com/external/icons8-flat-icons/64/000000/external-python-language-programming-icons-8-flat-icons.png" width="48">](https://github.com/search?q=language%3APython+user%3ADedicadoTech&type=repositories) See all My Python Projects
 
 ---
 
-<div style="display: flex; align-items: center;">
-    <span>See all My Java Projects</span>
-    [<img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo.png" width="48" style="margin-left: 10px;">](https://github.com/search?q=language%3AJava+user%3ADedicadoTech&type=repositories)
-</div>
+[<img src="https://img.icons8.com/external/flat-icons/64/000000/external-java-symbol-icons-flat-icons.png" width="48">](https://github.com/search?q=language%3AJava+user%3ADedicadoTech&type=repositories) See all My Java Projects
 
 ---
+
+[<img src="https://img.icons8.com/external/flat-icons/64/000000/external-console-silhouette-icons-flat-icons.png" width="48">](https://github.com/search?q=language%3AShell+user%3ADedicadoTech&type=repositories) See all My Shell Projects
+
 
 <div style="display: flex; align-items: center;">
     <span>See all My Shell Projects</span>
