@@ -11,7 +11,7 @@
 
 <h2 align="left" id="dedicadotech">Favorite Tech</h2>
 
-[Veja todos os meus projetos em Python]([https://github.com/search?q=language%3APython+user%3ADedicadoTech](https://github.com/search?q=language%3APython+user%3ADedicadoTech&type=repositories])
+[Veja todos os meus projetos em Python]([(https://github.com/search?q=language%3APython+user%3ADedicadoTech&type=repositories])
 
 
 > Tools, languages, and other things that I like to work with.
