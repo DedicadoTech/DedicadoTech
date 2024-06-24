@@ -14,11 +14,15 @@
 
 [<img src="https://img.icons8.com/color/48/000000/python.png" width="48">](https://github.com/search?q=language%3APython+user%3ADedicadoTech&type=repositories) See all My Python Projects
 
+---
+
 [<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48">](https://github.com/search?q=language%3AJava+user%3ADedicadoTech&type=repositories) See all My Java Projects
+
+---
 
 [<img src="https://img.icons8.com/plasticine/48/000000/console.png" width="48">](https://github.com/search?q=language%3AShell+user%3ADedicadoTech&type=repositories) See all My Shell Projects
 
-
+---
 
 
 > Tools, languages, and other things that I like to work with.
