@@ -11,6 +11,9 @@
 
 <h2 align="left" id="dedicadotech">Favorite Tech</h2>
 
+[Veja todos os meus projetos em Python](https://github.com/search?q=language%3APython+user%3ADedicadoTech)
+
+
 > Tools, languages, and other things that I like to work with.
  
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedicadotech&theme=monokai&show_icons=true" />
