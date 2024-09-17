@@ -1,5 +1,4 @@
 # :wave: Hello there! I'm Davi Silva
-## I am a Java Developer</h3>
 
 
 ![GitHub followers](https://img.shields.io/github/followers/dedicadotech?style=plastic&color=red)
