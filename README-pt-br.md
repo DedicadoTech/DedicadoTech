@@ -1,7 +1,7 @@
 <p>
  <img src="img/DedicadoTech.gif" alt="Logo Dedicadotech" title="Dedicadotech"/>
 </p> 
-<h1 align="center">👋 Hello, I'm Davi Silva</h1>
+<h1 align="center">👋 Olá, Eu sou o Davi Silva</h1>
 
 <p align="right">
   🇺🇸 <a href="README.md">English Version</a>
