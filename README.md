@@ -3,7 +3,7 @@
 </p> 
 
 <p align="right">
-  🇧🇷 <a href="README.pt-br.md">Versão em Português</a>
+  🇧🇷 <a href="README-pt-br.md">Versão em Português</a>
 </p>
 
 
