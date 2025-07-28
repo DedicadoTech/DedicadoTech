@@ -7,7 +7,7 @@
 </p>
 
 
-<h1 align="center">👋 Olá, eu sou o Davi Silva</h1>
+<h1 align="center">👋 Hello, I'am Davi Silva</h1>
 
 <p align="center">
   Python Developer focused on process automation, APIs, data analysis, and Infrastructure as Code (IaC)
