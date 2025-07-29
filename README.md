@@ -1,13 +1,12 @@
 <p>
  <img src="img/DedicadoTech.gif" alt="Dedicadotech Logo" title="Dedicadotech"/>
-</p> 
+</p>
+
+<h1 align="center">👋 Olá, eu sou o Davi Silva</h1>
 
 <p align="right">
   🇧🇷 <a href="README.pt-br.md">Versão em Português</a>
 </p>
-
-
-<h1 align="center">👋 Olá, eu sou o Davi Silva</h1>
 
 <p align="center">
   Python Developer focused on process automation, APIs, data analysis, and Infrastructure as Code (IaC)
@@ -28,7 +27,6 @@
 - 💼 Python Developer | Process Automation
 - 🔧 Tools I use: Python, Shell Script, REST APIs, PostgreSQL, Rundeck, Control-M
 - 🎯 Passionate about building simple solutions for real-world problems
-
 ## 📫 Contact Me
 - 📧 dedicadotech@gmail.com  
 - 💼 [LinkedIn - Dedicadotech](https://www.linkedin.com/in/dedicadotech)

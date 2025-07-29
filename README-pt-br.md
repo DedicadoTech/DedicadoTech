@@ -1,6 +1,7 @@
 <p>
  <img src="img/DedicadoTech.gif" alt="Logo Dedicadotech" title="Dedicadotech"/>
-</p> 
+</p>
+
 <h1 align="center">👋 Hello, I'm Davi Silva</h1>
 
 <p align="right">
@@ -30,7 +31,6 @@
 - 📧 dedicadotech@gmail.com
 - 💼 [LinkedIn Dedicadotech](https://www.linkedin.com/in/dedicadotech)
 
-
 ---
 
 ## 🧪 Projetos em destaque
@@ -38,7 +38,6 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | link | desc | Python, `requests`, `schedule` |
-
 
 ---
 
@@ -50,8 +49,6 @@
   <img src="https://img.icons8.com/plasticine/48/000000/console.png" alt="Img shell script" title="Shell Script"/>
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="Img MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/glyph-neue/64/github.png" alt="Img github" title="Github"/>
-  
- 
 </p>
 
 ---
@@ -63,4 +60,3 @@
 </p>
 
 ---
-
