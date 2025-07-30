@@ -30,7 +30,7 @@
 
 ## 📫 Let's talk?  
 ### Reach out through one of the channels below 👇  
-[![Email Me](https://img.shields.io/badge/email-Contact%20me-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedicadotech@gmail.com)
+[![Email Me](https://img.shields.io/badge/email-Contact%20me-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedicadotech@gmail.com?subject=New%20Project%20for%20Dedicadotech)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20me-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dedicadotech)
 [![Message me on Telegram](https://img.shields.io/badge/Telegram-Contact%20me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dedicadotech)
 [![Message me on WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511941402314?text=I%27m%20from%20Dedicadotech%2C%20specialized%20in%20system%20development%2C%20process%20automation%2C%20and%20custom%20solutions.%20Shall%20we%20talk%3F)

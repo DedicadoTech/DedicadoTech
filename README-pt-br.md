@@ -29,7 +29,7 @@
 - 🎯 Gosto de criar soluções simples para problemas reais
 ## 📫 Vamos conversar?
 ### Me chama em algum desses canais 👇
-[![Fale comigo por E-mail](https://img.shields.io/badge/email-Fale%20comigo-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedicadotech@gmail.com)
+[![Fale comigo por E-mail](https://img.shields.io/badge/email-Fale%20comigo-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedicadotech@gmail.com?subject=Novo%20Projeto%20para%20Dedicadotech)
 [![Meu LinkedIn](https://img.shields.io/badge/LinkedIn-Fale%20comigo-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dedicadotech)
 [![Fale comigo no Telegram](https://img.shields.io/badge/Telegram-Fale%20comigo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dedicadotech)
 [![Fale comigo no WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511941402314?text=Sou%20da%20Dedicadotech%2C%20especialista%20em%20desenvolvimento%20de%20sistemas%2C%20automação%20de%20processos%20e%20soluções%20sob%20demanda.%20Vamos%20conversar%3F)
