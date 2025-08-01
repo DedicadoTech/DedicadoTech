@@ -42,7 +42,7 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| link | desc | Python, `requests`, `schedule` |
+| [NoctuDesk](https://github.com/DedicadoTech/NoctuDesk) | open source project for servicedesk | Python, `Django` |
 
 ---
 
