@@ -41,7 +41,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| link | desc | Python, `requests`, `schedule` |
+| [NoctuDesk](https://github.com/DedicadoTech/NoctuDesk) | Projeto de código aberto para ServiceDesk | Python, `Django` |
 
 ---
 
