@@ -42,7 +42,8 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [NoctuDesk](https://github.com/DedicadoTech/NoctuDesk) | open source project for servicedesk | Python, `Django` |
+| |
+
 
 ---
 
@@ -50,18 +51,16 @@
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" title="Python"/>
-  <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible Icon" title="Ansible"/>
-  <img src="https://img.icons8.com/plasticine/48/000000/console.png" alt="Shell Script Icon" title="Shell Script"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" title="AWS"/>
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL Icon" title="MySQL"/>
-  <img src="https://img.icons8.com/glyph-neue/64/github.png" alt="GitHub Icon" title="GitHub"/>
+  <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" title="Jupyter Notebook"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" title="NumPy"/>
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" title="Pandas"/>
+  <img src="https://img.icons8.com/color/48/scikit-learn.png" alt="Scikit-learn" title="Scikit-learn"/>
+  <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" title="Matplotlib"/>
+  <img src="https://img.icons8.com/color/48/seaborn.png" alt="Seaborn" title="Seaborn"/>
+  <img src="https://img.icons8.com/color/48/plotly.png" alt="Plotly" title="Plotly"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedicadotech&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedicadotech&layout=compact&theme=radical"/>
-</p>
-
----
