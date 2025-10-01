@@ -1,7 +1,3 @@
-<p>
- <img src="img/DedicadoTech.gif" alt="Dedicadotech Logo" title="Dedicadotech"/>
-</p>
-
 <h1 align="center">👋 Hello, I'm Davi Silva</h1>
 
 <p align="right">
@@ -9,7 +5,7 @@
 </p>
 
 <p align="center">
-  Python Developer focused on process automation, APIs, data analysis, and Infrastructure as Code (IaC)
+  Welcome to my Data Science portfolio! Here you will find analyses, applied projects, and useful scripts that showcase my skills in Python, Statistics, Machine Learning, and Data Visualization.
 </p>
 
 <p align="center">
@@ -24,9 +20,9 @@
 ---
 
 ## 🚀 About Me  
-- 💼 Python Developer | Process Automation  
-- 🔧 Tools I use: Python, Shell Script, REST APIs, PostgreSQL, Rundeck, Control-M  
-- 🎯 I enjoy building simple solutions for real-world problems  
+- 📊 Data Science Developer | Data Analysis & Machine Learning
+- 🛠️ Tools I use: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PostgreSQL, Jupyter Notebook
+- 📈 I enjoy extracting insights from data and building predictive models to solve real-world problems
 
 ## 📫 Let's talk?  
 ### Reach out through one of the channels below 👇  
@@ -47,7 +43,7 @@
 
 ---
 
-## 📌 Favorite Languages and Tools
+## 📌 Currently Learning
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" title="Python"/>
@@ -56,10 +52,10 @@
   <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" title="Jupyter Notebook"/>
   <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" title="NumPy"/>
   <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" title="Pandas"/>
-  <img src="https://img.icons8.com/color/48/scikit-learn.png" alt="Scikit-learn" title="Scikit-learn"/>
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" title="Scikit-learn" style="width:52px" style="height:52px"/> 
   <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" title="Matplotlib"/>
-  <img src="https://img.icons8.com/color/48/seaborn.png" alt="Seaborn" title="Seaborn"/>
-  <img src="https://img.icons8.com/color/48/plotly.png" alt="Plotly" title="Plotly"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" style="width:52px" style="height:52px"/>
+ <img src="https://techicons.dev/icons/plotly/plotly-512.png" alt="Plotly" title="Plotly"/>
 </p>
 
 ---
