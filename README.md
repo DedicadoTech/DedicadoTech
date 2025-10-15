@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Davi Silva</h1>
 
 <p align="right">
-🇧🇷 <a href="README-pt-br.md">Versão em Português</a>
+
 </p>
 
 <p align="center">
