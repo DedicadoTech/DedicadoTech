@@ -11,8 +11,7 @@
 ---
 
 <!-- SOBRE MIM — ESTILO TERMINAL -->
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=DedicadoTech&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=2196F3&icon_color=2196F3"/>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DedicadoTech&show_icons=true&theme=github_dark&hide_border=true&title_color=2196F3&icon_color=2196F3&cache_seconds=1800)
 ```python
 class Davi:
 
@@ -101,7 +100,7 @@ class Davi:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=DedicadoTech&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DedicadoTech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy))
 
 </div>
 
