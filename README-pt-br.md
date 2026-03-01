@@ -95,17 +95,6 @@ class Davi:
 
 ---
 
-<!-- TROFEUS -->
-## 🏆 Troféus
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DedicadoTech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy))
-
-</div>
-
----
-
 <!-- STATS -->
 ## 📊 Estatísticas
 
