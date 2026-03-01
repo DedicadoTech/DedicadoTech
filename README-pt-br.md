@@ -8,10 +8,7 @@
 
 </div>
 
----
 
-<!-- SOBRE MIM — ESTILO TERMINAL -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DedicadoTech&show_icons=true&theme=github_dark&hide_border=true&title_color=2196F3&icon_color=2196F3&cache_seconds=1800)
 ```python
 class Davi:
 
@@ -98,12 +95,6 @@ class Davi:
 <!-- STATS -->
 ## 📊 Estatísticas
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DedicadoTech&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=2196F3&icon_color=2196F3"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DedicadoTech&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=2196F3"/>
-
-</div>
 
 <div align="center">
 
@@ -114,7 +105,7 @@ class Davi:
 ---
 
 <!-- SNAKE -->
-## 🐍 Contribuições
+## Contribuições
 
 <div align="center">
 
