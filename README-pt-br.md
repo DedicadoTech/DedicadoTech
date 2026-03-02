@@ -86,7 +86,7 @@ class Davi:
 | | Projeto | Descrição | Stack |
 |--|--------|-----------|-------|
 | 🔔 | [**Backup Monitor**](https://github.com/DedicadoTech/backup-monitor) | Monitora jobs de backup e envia alertas via Telegram e e-mail | `Python` `Shell` `SMTP` `Telegram API` |
-| 📋 | [**Log Analyzer**](https://github.com/DedicadoTech/log-analyzer) | Analisa logs, classifica erros por severidade e gera relatório HTML | `Python` `Pandas` `Regex` `Jinja2` |
+| 📋 | [**Log Analyzer**](https://github.com/DedicadoTech/LogAnalyser) | Analisa logs, classifica erros por severidade e gera relatório HTML | `Python` `Pandas` `Regex` `Jinja2` |
 | 🔗 | [**API Integration Toolkit**](https://github.com/DedicadoTech/api-integration-toolkit) | Consome APIs REST, transforma e exporta dados automaticamente | `Python` `Requests` `OpenPyXL` |
 
 ### 📊 Análise de Dados
