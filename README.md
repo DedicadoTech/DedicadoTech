@@ -3,7 +3,10 @@
 
 <!-- LANGUAGE TOGGLE -->
 <div align="center">
-    <iframe src="./assets/language-toggle.html" width="140" height="50" frameborder="0" scrolling="no" style="border: none; background: transparent;"></iframe>
+
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-2196F3?style=for-the-badge&logoColor=white)](#)
+[![🇧🇷 Português](https://img.shields.io/badge/🇧🇷_Português-555555?style=for-the-badge&logoColor=white)](README-pt-br.md)
+
 </div>
 
 <!-- TYPING EFFECT -->

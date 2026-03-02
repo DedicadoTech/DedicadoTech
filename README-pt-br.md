@@ -1,12 +1,20 @@
 <!-- HEADER ANIMADO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2196F3&height=200&section=header&text=Davi%20de%20Souza%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20·%20Data%20Analysis%20·%20Automation&descAlignY=58&descSize=18&animation=fadeIn"/>
 
+<!-- SELETOR DE IDIOMA -->
+<div align="center">
+
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-555555?style=for-the-badge&logoColor=white)](README.md)
+[![🇧🇷 Português](https://img.shields.io/badge/🇧🇷_Português-2196F3?style=for-the-badge&logoColor=white)](#)
+
+</div>
+
 <!-- TYPING EFFECT -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;Automa%C3%A7%C3%A3o+de+Processos;An%C3%A1lise+de+Dados;Entusiasta+de+IA+%26+Agentes+Aut%C3%B4nomos)](https://git.io/typing-svg)
 
-</div>
+</div>>
 
 
 ```python
